@@ -1,5 +1,11 @@
 This repository acts as an archive for several papers I wrote over the last few years.
 
+## Modelling combined UV/chlorine treatment of filtered water
+_ECMI modelling week project_
+`2026-06-modelling-week.pdf`
+
+Project report for the ECMI Modelling week 2026 project. Overview of the model and its results.
+
 ## Conversion coefficient conversions at the CERN accelerator complex
 _internship project report_
 `2024-09-CERN-summer-student.pdf`
